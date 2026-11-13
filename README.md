@@ -4,7 +4,7 @@ Repositorio contendo o codigo-fonte em LaTeX e a versao compilada em PDF do curr
 
 ## Perfil de Atuacao
 
-- Graduando em Engenharia de Telecomunicacoes pela Universidade Federal de Pernambuco (UFPE - 7o periodo).
+- Graduando em Engenharia de Telecomunicacoes pela Universidade Federal de Pernambuco (UFPE - 8o periodo).
 - Tecnico em Analise e Desenvolvimento de Sistemas (ETE-SWC).
 - Pesquisador de Iniciacao Cientifica (PIBIC/CNPq) no Laboratorio de Comunicacao e Seguranca da Informacao (LCSI/UFPE).
 - Principais competencias tecnicas:
@@ -43,6 +43,6 @@ pdflatex -interaction=nonstopmode curriculo.tex
 
 ## Contato e Redes
 
-- Email: matheushenriqueprojeto@gmail.com
+- Email: matheuzinhorxoficial@gmail.com
 - LinkedIn: https://www.linkedin.com/in/matheus-sousa-739893255/
 - GitHub: https://github.com/Matheuzinh0
