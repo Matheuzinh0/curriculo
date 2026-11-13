@@ -1,0 +1,17 @@
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Auxiliary and temporary images
+page*.png
+foto_extracted*
+
+# Administrative university source PDFs
+SIGAA*.pdf
+Currículo*.pdf
+curriculo_matheus_sousa.pdf
